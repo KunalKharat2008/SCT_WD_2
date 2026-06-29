@@ -73,4 +73,4 @@ This project was developed as part of the **Web Development Internship** at **Pr
 
 ## Author
 
-**Aadesh Gangwal**
+**Kunal Kharat**

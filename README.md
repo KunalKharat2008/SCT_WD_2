@@ -37,7 +37,6 @@ The application provides accurate time tracking with a clean interface, smooth a
 ├── index.html
 ├── style.css
 ├── script.js
-├── favicon.png
 └── README.md
 ```
 

@@ -1,6 +1,6 @@
 # Stopwatch Web Application
 
-A modern and responsive stopwatch built using **HTML5, CSS3, and JavaScript** as part of my **Web Development Internship at Prodigy InfoTech**.
+A modern and responsive stopwatch built using **HTML5, CSS3, and JavaScript** as part of my **Web Development Internship at SkillCarft Technology**.
 
 The application provides accurate time tracking with a clean interface, smooth animations, lap management, and keyboard shortcuts while maintaining responsive behavior across different screen sizes.
 
@@ -67,7 +67,7 @@ This project is still under active development, and additional enhancements will
 
 ## Internship
 
-This project was developed as part of the **Web Development Internship** at **Prodigy InfoTech**.
+This project was developed as part of the **Web Development Internship** at **SkillCraft Technology**.
 
 ---
 
